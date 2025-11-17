@@ -1,5 +1,4 @@
-# Mentorness Internship
-Data Analysis Internship
+# Mentorness  Data Analysis Internship
 # Task 1 :
 # Short Reel Making On Topic : 
 - MIN() SQL function 
